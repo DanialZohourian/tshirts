@@ -1,0 +1,49 @@
+[
+    {
+        "id": 2759215,
+        "title_fa": "تی شرت ورزشی زنانه کد 018-2729",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/121149914.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر",
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "آزاد"
+                ]
+            }
+        ]
+    }
+]

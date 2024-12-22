@@ -1,0 +1,54 @@
+[
+    {
+        "id": 2999442,
+        "title_fa": "ناموجودتی شرت ورزشی زنانه کد cr270",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/ded614c4af79d22df429f269ec5ebaf0794f2ccb_1595430712.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "ایستاده"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "دارای جیب در پشت لباس جهت نگهداری موبایل و بطری"
+                ]
+            }
+        ]
+    }
+]

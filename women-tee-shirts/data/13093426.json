@@ -1,0 +1,57 @@
+[
+    {
+        "id": 13093426,
+        "title_fa": "کراپ‌تاپ آستین کوتاه زنانه مدل c361 طرح هالوین",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/eb0c12b5ee8d943a0514beff6329fe62dd5f82b9_1698046279.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "الیاف نخی",
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "چاپ"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "نیم تنه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "روزمره",
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

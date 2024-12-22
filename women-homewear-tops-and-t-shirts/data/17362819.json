@@ -1,0 +1,54 @@
+[
+    {
+        "id": 17362819,
+        "title_fa": "تاپ زنانه ناربن مدل 15211081 رنگ سبز",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/b691b9760dbbca2721a37be0d1c29c655b9c7171_1731854325.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تاپ و تی‌شرت راحتی زنانه",
+                "value": [
+                    "تاپ راحتی"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            }
+        ]
+    }
+]

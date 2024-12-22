@@ -1,0 +1,48 @@
+[
+    {
+        "id": 7066917,
+        "title_fa": "ناموجودتی شرت آستین بلند ورزشی زنانه مدل فینگردار کد Mhr-12",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/c1e666a908b2ea3148dcdf09a31d0f176e3394af_1636974296.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "بامبو"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "چاپ"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "چوکر"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 15010593,
+        "title_fa": "تی شرت لانگ آستین کوتاه زنانه مدل پل کد 13",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/580f4b47ae5f9e6d47bf269b038cff3ee2d34300_1712311510.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "دورس"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "آزاد"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "سه ربع"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 11652802,
+        "title_fa": "تاپ زنانه مدل M3144",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/8e2889ba5b8c1f0c8ae948e268d7919af83bbc6d_1686659372.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "الیاف نخی"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "روزمره",
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "id": 9232963,
+        "title_fa": "ناموجودتی شرت آستین کوتاه زنانه مدل برگ نگینی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/f66d2c947fcf2ed12a47ce52bebb0048c0f3be89_1660847709.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "ویسکوز"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "نگین دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "باز"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "آزاد"
+                ]
+            }
+        ]
+    }
+]

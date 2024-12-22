@@ -1,0 +1,55 @@
+[
+    {
+        "id": 14442623,
+        "title_fa": "نیم تنه زنانه مدل لیزری",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/61da262e20403e2c4ed6ba29de2a9a3a0682f159_1708015980.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "اسپاندکس"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "باز"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "روزمره"
+                ]
+            }
+        ]
+    }
+]

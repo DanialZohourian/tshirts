@@ -1,0 +1,49 @@
+[
+    {
+        "id": 5236904,
+        "title_fa": "ناموجودتاپ زنانه مدل ZTOPSY1",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/c27449d0415d4444465e8dc3714a67074178a00a_1621973262.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "الیاف نخی",
+                    "پنبه"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            }
+        ]
+    }
+]

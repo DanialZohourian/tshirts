@@ -1,0 +1,57 @@
+[
+    {
+        "id": 13190113,
+        "title_fa": "کراپ‌تاپ آستین کوتاه زنانه مدل c409 طرح بچه",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/ad29fba0cc74822305400c8402da3fd18c82979e_1698740117.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "الیاف نخی",
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "چاپ"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "نیم تنه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "روزمره",
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

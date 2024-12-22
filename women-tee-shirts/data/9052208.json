@@ -1,0 +1,55 @@
+[
+    {
+        "id": 9052208,
+        "title_fa": "تی شرت آستین کوتاه زنانه مدل دخترموگوجه ای D868",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/e46d21f5c3127bc5068c05a08d75e8bb677e9a63_1658651277.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر",
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "روزمره"
+                ]
+            }
+        ]
+    }
+]

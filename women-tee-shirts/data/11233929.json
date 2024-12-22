@@ -1,0 +1,57 @@
+[
+    {
+        "id": 11233929,
+        "title_fa": "کراپ‌تاپ آستین کوتاه زنانه کد s 44",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/54e52335666feb828155786c8e688132a2a2cbca_1683096122.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر",
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "چاپ"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "نیم تنه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "روزمره",
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

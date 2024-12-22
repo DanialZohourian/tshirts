@@ -1,0 +1,57 @@
+[
+    {
+        "id": 13126861,
+        "title_fa": "تی شرت آستین کوتاه زنانه مدل T274 طرح هالوین",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/4561dd7ef90e439cf0eb13b9dc7f83ab0b00f63e_1698215959.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "الیاف نخی",
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "چاپ"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "روزمره",
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

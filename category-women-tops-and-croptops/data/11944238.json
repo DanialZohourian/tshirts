@@ -1,0 +1,55 @@
+[
+    {
+        "id": 11944238,
+        "title_fa": "کراپ‌تاپ زنانه مدل KTD-M رنگ مشکی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/3039f2b7fcc2b81d32923b121d861e9ce4825ea6_1688657725.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "فانریپ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "نیم تنه"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "حلقه‌ای"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "روزمره"
+                ]
+            }
+        ]
+    }
+]

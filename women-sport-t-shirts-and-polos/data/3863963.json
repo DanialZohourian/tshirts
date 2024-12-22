@@ -1,0 +1,48 @@
+[
+    {
+        "id": 3863963,
+        "title_fa": "ناموجودتی شرت ورزشی زنانه بروکس مدل FS99745",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/4b97756185893ef0aa160ce40ef6cd6a09fc5f5b_1606329936.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            }
+        ]
+    }
+]

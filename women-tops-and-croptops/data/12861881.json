@@ -1,0 +1,57 @@
+[
+    {
+        "id": 12861881,
+        "title_fa": "تاپ زنانه مدل بافت یقه خشتی رنگ ابی کاربنی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/f15d6275b4cd965683f3e06b4b343adc86532dcd_1696191716.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "بافت"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "هندسی"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "خشتی"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "روزمره",
+                    "اداری و رسمی",
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

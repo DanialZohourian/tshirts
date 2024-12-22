@@ -1,0 +1,62 @@
+[
+    {
+        "id": 16407391,
+        "title_fa": "کراپ‌تاپ زنانه کد 16",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/be31cad202bb879583d5977133fa01ab377281cd_1723618919.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تاپ و نیم تنه زنانه",
+                "value": [
+                    "نیم تنه"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "فانریپ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "راه‌راه"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "نیم تنه"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "روزمره",
+                    "مهمانی",
+                    "اسپرت"
+                ]
+            }
+        ]
+    }
+]

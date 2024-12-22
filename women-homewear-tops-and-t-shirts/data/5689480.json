@@ -1,0 +1,55 @@
+[
+    {
+        "id": 5689480,
+        "title_fa": "ناموجودتی شرت زنانه استرادیواریوس مدل 6591082004",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/11d5dfeae7a4e9a0c6d8f813c0ce862c8e7fd3ab_1625573167.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر",
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "کشور مبدا برند",
+                "value": [
+                    "اسپانیا"
+                ]
+            }
+        ]
+    }
+]

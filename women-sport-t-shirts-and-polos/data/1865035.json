@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1865035,
+        "title_fa": "ناموجودگرمکن ورزشی زنانه آر اِن اِس B-103003",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/117525366.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "ایستاده"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "نگهداری",
+                "value": [
+                    "شستشو با آب ۳۰ درجه سانتی گراد انجام شود\r\nقابل شستشو در ماشین لباسشویی می باشد"
+                ]
+            }
+        ]
+    }
+]

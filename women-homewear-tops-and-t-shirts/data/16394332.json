@@ -1,0 +1,54 @@
+[
+    {
+        "id": 16394332,
+        "title_fa": "تاپ زنانه مدل ایلا کد 01",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/6b33434edea59ceef9057cbd2583f2909dee5f86_1725793883.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تاپ و تی‌شرت راحتی زنانه",
+                "value": [
+                    "تاپ راحتی"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "اسپان"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            }
+        ]
+    }
+]

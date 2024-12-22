@@ -1,0 +1,48 @@
+[
+    {
+        "id": 14712081,
+        "title_fa": "تی شرت آستین بلند ورزشی زنانه کد 83",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/29a0f213e4a042e03a5ae0cb21b13beb837cb232_1709801781.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلار"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "چهارخانه"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "ایستاده"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            }
+        ]
+    }
+]

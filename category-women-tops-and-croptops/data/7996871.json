@@ -1,0 +1,63 @@
+[
+    {
+        "id": 7996871,
+        "title_fa": "تاپ زنانه مدل MITIE رنگ مرجانی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/0d3737eda53976de92e269bc968a40747f9b9521_1646316109.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پارچه",
+                    "کرپ حریر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "کراواتی"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "روزمره",
+                    "اداری و رسمی",
+                    "مهمانی"
+                ]
+            },
+            {
+                "key": "کد کالای محصول",
+                "value": [
+                    "MRL-TIEC"
+                ]
+            }
+        ]
+    }
+]

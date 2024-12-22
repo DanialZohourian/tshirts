@@ -1,0 +1,68 @@
+[
+    {
+        "id": 15761837,
+        "title_fa": "تاپ زنانه مدل گیپور کد 3392",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/d1c37bc08edab430374fbaa2fb6aff3de771b46c_1718103941.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تاپ و نیم تنه زنانه",
+                "value": [
+                    "تاپ"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "پنبه"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "راه‌راه"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "هفت"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مدل بند لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "روزمره",
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "id": 13003277,
+        "title_fa": "کراپ‌تاپ زنانه مدل زنجیری نیکا",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/00ffc952fa54b0ecf219b94cc088d49b5ce93f62_1697450971.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "تریکو"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "رومی"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

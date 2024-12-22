@@ -1,0 +1,55 @@
+[
+    {
+        "id": 10438024,
+        "title_fa": "ناموجودتی شرت آستین بلند ورزشی زنانه اویاندا مدل fsc 2123",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/7105a177b5cd52823ebff830713c6fe5abb1dc7f_1673725954.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "الاستین",
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "کشور مبدا برند",
+                "value": [
+                    "آلمان"
+                ]
+            }
+        ]
+    }
+]

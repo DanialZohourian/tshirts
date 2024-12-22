@@ -1,0 +1,60 @@
+[
+    {
+        "id": 16743872,
+        "title_fa": "نیم تنه زنانه مدل آبرنگی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/1ad066ba63c196ffc867d96d10b7d4a51eef6af9_1727050628.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تاپ و نیم تنه زنانه",
+                "value": [
+                    "نیم تنه"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "الیاف نخی"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ابر و بادی"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "نیم تنه"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "دکلته"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

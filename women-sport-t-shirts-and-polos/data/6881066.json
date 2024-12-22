@@ -1,0 +1,48 @@
+[
+    {
+        "id": 6881066,
+        "title_fa": "ناموجودتی شرت آستین بلند ورزشی زنانه مبیا مدل 216 B",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/65526238559557d07eba47e18ecd2b02f2dd4425_1635880146.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "استرچ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "چاپ"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "زیر باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "ایستاده"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            }
+        ]
+    }
+]

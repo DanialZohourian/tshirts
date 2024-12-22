@@ -1,0 +1,66 @@
+[
+    {
+        "id": 14385103,
+        "title_fa": "تاپ زنانه پرتمنس کد 031",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/3021d15ba5253745f84c19d8decc936cb2122965_1707581710.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "حلقه‌ای"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "نحوه بسته شدن",
+                "value": [
+                    "زیپ"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "مهمانی"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "چین"
+                ]
+            }
+        ]
+    }
+]

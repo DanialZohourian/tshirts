@@ -1,0 +1,55 @@
+[
+    {
+        "id": 15301408,
+        "title_fa": "تی شرت زنانه ایپلیک زی مدل قیطون دوزی کد IP05.3",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/755d9bbe88ae69a9c8b1a4d411136fc5d661c351_1715859486.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پنبه",
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "کد کالای محصول",
+                "value": [
+                    "IP۰۵.۳"
+                ]
+            }
+        ]
+    }
+]

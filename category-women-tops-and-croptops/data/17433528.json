@@ -1,0 +1,62 @@
+[
+    {
+        "id": 17433528,
+        "title_fa": "کراپ‌تاپ زنانه ابیلی مدل 298/58",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/913c95d7e3ae659fed1a0e3fbbeb33534f6666d4_1731908763.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تاپ و نیم تنه زنانه",
+                "value": [
+                    "نیم تنه",
+                    "تاپ"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "مخمل"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "نیم تنه"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "باز"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "مهمانی",
+                    "روزمره"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 8315764,
+        "title_fa": "ناموجودتاپ زنانه مدل یاسمن",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/f0330eb3cefa27ff3e2645bdbfc8861a25e96520_1650343407.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پنبه"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "گل‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "میدی"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "ابعاد لباس :\r\nدور سینه : ۸۶ سانتیمتر\r\nقد لباس : ۶۳ سانتیمتر\r\nپارچه لباس خاصیت کشسانی دارد"
+                ]
+            }
+        ]
+    }
+]

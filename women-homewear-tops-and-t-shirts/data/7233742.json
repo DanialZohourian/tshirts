@@ -1,0 +1,48 @@
+[
+    {
+        "id": 7233742,
+        "title_fa": "ناموجودتاپ زنانه مدل نخی گلدار حلقه ای 315",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/c1834fc8ab2bbd1b8b0bedc16d77fddd362679df_1638704091.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "گل‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "حلقه‌ای"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            }
+        ]
+    }
+]

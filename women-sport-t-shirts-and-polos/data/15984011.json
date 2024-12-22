@@ -1,0 +1,55 @@
+[
+    {
+        "id": 15984011,
+        "title_fa": "تی شرت آستین کوتاه ورزشی زنانه کرین مدل 15984011",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/74e3fc5693d995adcd921c1a6f3f4e776fc7df7a_1720343124.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تی شرت ورزشی زنانه",
+                "value": [
+                    "تی شرت ورزشی"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "الاستین",
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            }
+        ]
+    }
+]

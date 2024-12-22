@@ -1,0 +1,55 @@
+[
+    {
+        "id": 10889330,
+        "title_fa": "تی شرت آستین بلند زنانه سرژه مدل 203369 یقه مربع رنگ طوسی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/537850cb71f970c1c165a708b25985abe741ac80_1678789576.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پنبه تیپ لاکرا"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "خشتی"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

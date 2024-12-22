@@ -1,0 +1,55 @@
+[
+    {
+        "id": 16780976,
+        "title_fa": "تاپ زنانه ایریس اند لیلی مدل SM262",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/1f6e345d82c2b111b3145ce2271f2dfffc549f3e_1727118177.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تاپ و تی‌شرت راحتی زنانه",
+                "value": [
+                    "تاپ راحتی"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "کتان",
+                    "الاستین"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            }
+        ]
+    }
+]

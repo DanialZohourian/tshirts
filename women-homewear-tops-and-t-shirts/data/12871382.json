@@ -1,0 +1,55 @@
+[
+    {
+        "id": 12871382,
+        "title_fa": "ناموجودتاپ زنانه کویین مدل SM46",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/04f9b5109621e4fb0b64e909bec7d7c18dc89d99_1696351414.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "الاستین",
+                    "کتان"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "بندی"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "کشور مبدا برند",
+                "value": [
+                    "آلمان"
+                ]
+            }
+        ]
+    }
+]

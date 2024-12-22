@@ -1,0 +1,55 @@
+[
+    {
+        "id": 12278386,
+        "title_fa": "تی شرت آستین کوتاه ورزشی زنانه بروکس مدل New p",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/0dadaec2811ffe50ab0db2b852e29a6bc7675323_1691481973.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر",
+                    "اسپاندکس"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "السالوادور"
+                ]
+            }
+        ]
+    }
+]

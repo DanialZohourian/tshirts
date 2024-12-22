@@ -1,0 +1,56 @@
+[
+    {
+        "id": 9030405,
+        "title_fa": "ناموجودتی شرت آستین کوتاه ورزشی زنانه نیوسنشیال مدل اسپرت",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/b7291b906c952a2bfc23e9f3d51c0cef76150dc4_1658669508.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر",
+                    "فلامنت",
+                    "ویسکوز"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "آلمان"
+                ]
+            }
+        ]
+    }
+]

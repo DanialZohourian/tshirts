@@ -1,0 +1,54 @@
+[
+    {
+        "id": 5414327,
+        "title_fa": "ناموجودتاپ زنانه مدل 42673-SLOUCHY VEST رنگ مشکی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/abc23fe523c8d95269f4655569e7f2a8a3dea7cf_1623505693.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "کتان"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "بنگلادش"
+                ]
+            }
+        ]
+    }
+]

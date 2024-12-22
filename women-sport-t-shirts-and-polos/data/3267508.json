@@ -1,0 +1,60 @@
+[
+    {
+        "id": 3267508,
+        "title_fa": "ناموجودتیشرت ورزشی زنانه کد 315782",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/f94eefc24ef8f5af5c27c3c8bae55b7e57bab749_1599025538.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی آمید"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "ایستاده"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "کشور مبدا برند",
+                "value": [
+                    "آلمان"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "آلمان"
+                ]
+            }
+        ]
+    }
+]

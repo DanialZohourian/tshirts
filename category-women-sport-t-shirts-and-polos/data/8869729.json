@@ -1,0 +1,56 @@
+[
+    {
+        "id": 8869729,
+        "title_fa": "ناموجودتی شرت آستین کوتاه ورزشی زنانه مدل M5",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/3118d422f19f09fc16e5f576fa1cfebdb5456a98_1656411562.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "الاستین",
+                    "پلی استر",
+                    "نایلون"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ملانژ"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "چین"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "id": 12063919,
+        "title_fa": "تاپ زنانه مدل یقه دیپلمات",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/b75fe234ea3e9735366a4290acb0ee9ea7e3451d_1689503634.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "ابر و بادی"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "ایستاده"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "حلقه‌ای"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "راسته"
+                ]
+            },
+            {
+                "key": "مدل بند لباس",
+                "value": [
+                    "بدون بند"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "مهمانی"
+                ]
+            }
+        ]
+    }
+]

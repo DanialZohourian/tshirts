@@ -1,0 +1,54 @@
+[
+    {
+        "id": 3888731,
+        "title_fa": "ناموجودتی شرت آستین کوتاه زنانه مدل سه گربه",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/675f4b038b2cab762e6dea06bee38b89d394db2c_1606853918.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "فری سایز مناسب ۳۶ تا ۴۴"
+                ]
+            }
+        ]
+    }
+]

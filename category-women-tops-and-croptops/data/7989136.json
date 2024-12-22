@@ -1,0 +1,62 @@
+[
+    {
+        "id": 7989136,
+        "title_fa": "تاپ زنانه مدل MBLADE رنگ قرمز",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/5afa1fd3fa8813c336c81eeeab5229d1cf7d52ac_1646226730.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "کرپ حریر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "برگردان"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "روزمره",
+                    "اداری و رسمی",
+                    "مهمانی"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "جلوی تاپ بلند بوده و زیر مانتو پوشیدگی کامل می دهد."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 3855096,
+        "title_fa": "ناموجودتی شرت ورزشی زنانه مدل Z-NB7",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/bd17ab0a8e7437b34f1e9ccba65f6aba68934ab3_1606284233.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی آمید"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "آزاد"
+                ]
+            },
+            {
+                "key": "نگهداری",
+                "value": [
+                    "اتوکشی در دمای متوسط \r\nشستشو در دمای ۴۰ درجه سانتیگراد"
+                ]
+            }
+        ]
+    }
+]

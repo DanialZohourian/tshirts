@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1744633,
+        "title_fa": "ناموجودتی شرت آستین بلند ورزشی زنانه مدل LS Trail P",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/117453947.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "ضد تعریق\r\nدارای حفره های ریز جهت عبور هوا"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "چین"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "id": 679651,
+        "title_fa": "ناموجودتی‌شرت ورزشی زنانه 361 درجه مدل 4-4104",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/116744136.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر",
+                    "پلی آمید"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 8836490,
+        "title_fa": "ناموجودتی شرت آستین کوتاه زنانه مدل Q3",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/bfdb5b318c70499cd7998eafa8585cadc8be9da0_1656072819.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پنبه"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "چاپ"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "میدی"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "هفت"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "ابعاد سایز M :\r\nدور سینه : ۹۰ سانتیمتر\r\nقد لباس : ۶۰ سانتیمتر"
+                ]
+            }
+        ]
+    }
+]

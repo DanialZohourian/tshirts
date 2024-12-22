@@ -1,0 +1,55 @@
+[
+    {
+        "id": 16942095,
+        "title_fa": "تی شرت آستین کوتاه ورزشی زنانه مدل ES2048",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/2dbbd5b1bf710bb0ecafc6652361f8bc739cb7c6_1728765561.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تی شرت ورزشی زنانه",
+                "value": [
+                    "تی شرت ورزشی"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "پنبه",
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            }
+        ]
+    }
+]

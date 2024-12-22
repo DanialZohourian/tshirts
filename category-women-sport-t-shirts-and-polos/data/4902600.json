@@ -1,0 +1,54 @@
+[
+    {
+        "id": 4902600,
+        "title_fa": "ناموجودتی شرت آستین کوتاه ورزشی زنانه مدل RBorW111",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/17451be5cdc22bbdc899755bfe2b9028a1f73b80_1618383167.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "فلامنت"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "ضد حساسیت"
+                ]
+            }
+        ]
+    }
+]

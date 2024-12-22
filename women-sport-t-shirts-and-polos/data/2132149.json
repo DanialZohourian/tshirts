@@ -1,0 +1,36 @@
+[
+    {
+        "id": 2132149,
+        "title_fa": "ناموجودتیشرت ورزشی زنانه کد B1",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/117627303.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی آمید"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "آلمان"
+                ]
+            }
+        ]
+    }
+]

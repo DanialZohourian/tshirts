@@ -1,0 +1,42 @@
+[
+    {
+        "id": 2256567,
+        "title_fa": "ناموجودتیشرت ورزشی زنانه کد cr137",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/117690178.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "هفت"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "دارای چسب بدن برای جلو گیری از بالا رفتن لباس\r\nدو لایه و دارای لایه ی عرق گیر"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "آلمان"
+                ]
+            }
+        ]
+    }
+]

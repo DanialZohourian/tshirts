@@ -1,0 +1,60 @@
+[
+    {
+        "id": 8762510,
+        "title_fa": "ناموجودتی شرت زنانه مدل pinguin 3",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/330db52ce3b044bef17c574087b088294cbb1e45_1655364004.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پنبه"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "چاپ"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "زیر باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "کد کالای محصول",
+                "value": [
+                    "pinguin ۳"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "ایران"
+                ]
+            }
+        ]
+    }
+]

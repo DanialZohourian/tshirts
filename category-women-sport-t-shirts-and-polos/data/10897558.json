@@ -1,0 +1,60 @@
+[
+    {
+        "id": 10897558,
+        "title_fa": "ناموجودتی شرت ورزشی زنانه مدل MDS-N-AT5660",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/42d1e5b810a4b8eeda5a6acdca343f30c19cda4a_1678909123.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "فلامنت"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "مدل یقه\tگرد\r\nطرح\tساده\r\nنوع آستین\tکوتاه\r\nتن خور\tمعمولی (Standard Fit)\r\nنوع\tتی شرت ورزشی\r\nجنسیت\tزنانه\r\nرده سنی\tبزرگسال\r\nجنس\tفلامنت"
+                ]
+            },
+            {
+                "key": "نگهداری",
+                "value": [
+                    "ملاحظات نگهداری\tشستشو در دمای ۳۰ درجه انجام شود."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "id": 10360102,
+        "title_fa": "ناموجودتی شرت آستین کوتاه ورزشی زنانه مدل MDK-AT4666",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/a7e31eeb3fa6aab01e518acaea8e31fa9fcfb4b1_1672925520.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "فلامنت"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "مدل یقه\tگرد\r\nطرح\tساده\r\nنوع آستین\tکوتاه\r\nتن خور\tچسبان (Slim Fit)\r\nمناسب چهار فصل\r\nجنس\tفلامنت"
+                ]
+            },
+            {
+                "key": "نگهداری",
+                "value": [
+                    "ملاحظات نگهداری\tشستشو در دمای ۳۰ درجه انجام شود."
+                ]
+            }
+        ]
+    }
+]

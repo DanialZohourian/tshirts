@@ -1,0 +1,56 @@
+[
+    {
+        "id": 8837321,
+        "title_fa": "ناموجودتی شرت آستین کوتاه ورزشی زنانه مدل c5",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/25cb66de825e4c0a9f0e5ad18d198a893a6c5c5c_1656084374.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "الاستین",
+                    "پلی استر",
+                    "نایلون"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "چین"
+                ]
+            }
+        ]
+    }
+]

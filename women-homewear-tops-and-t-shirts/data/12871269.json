@@ -1,0 +1,55 @@
+[
+    {
+        "id": 12871269,
+        "title_fa": "ناموجودتاپ زنانه آپ تو فشن مدل تیوپی SM45",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/09e9d4d333059f7f4860cacd4582d5df9ac2da0f_1696354414.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "الاستین",
+                    "کتان"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "باز"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "کشور مبدا برند",
+                "value": [
+                    "بنگلادش"
+                ]
+            }
+        ]
+    }
+]

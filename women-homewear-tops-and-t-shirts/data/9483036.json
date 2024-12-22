@@ -1,0 +1,48 @@
+[
+    {
+        "id": 9483036,
+        "title_fa": "ناموجودتاپ زنانه مدل آزیتا",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/d1a2645ffec626c4d3eb4a765ec4f6608f0fbebb_1663402206.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "ملانژ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "راه‌راه"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "راسته"
+                ]
+            }
+        ]
+    }
+]

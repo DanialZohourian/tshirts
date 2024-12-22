@@ -1,0 +1,54 @@
+[
+    {
+        "id": 17410187,
+        "title_fa": "تی شرت ورزشی زنانه مکرون مدل ریون رنگ کالباسی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/34478ea9ade0e688c1d360cb461774e10394bd12_1731741349.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تی شرت ورزشی زنانه",
+                "value": [
+                    "تی شرت ورزشی"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "ریون"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            }
+        ]
+    }
+]

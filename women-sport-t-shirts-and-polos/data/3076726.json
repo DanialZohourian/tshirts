@@ -1,0 +1,54 @@
+[
+    {
+        "id": 3076726,
+        "title_fa": "ناموجودتیشرت ورزشی زنانه کد Z-H77",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/492a2b69e79b5e1d1167cf59f769ad7de0495126_1597676927.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "آزاد"
+                ]
+            },
+            {
+                "key": "نگهداری",
+                "value": [
+                    "اتوکشی در دمای متوسط \r\nشستشو در دمای ۴۰ درجه سانتیگراد"
+                ]
+            }
+        ]
+    }
+]

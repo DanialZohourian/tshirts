@@ -1,0 +1,55 @@
+[
+    {
+        "id": 6359240,
+        "title_fa": "ناموجودتی شرت آستین بلند ورزشی زنانه مدل Sp200",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/0eb7740f6703d559a697428ec653378a50862d6d_1630998086.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی آمید",
+                    "جودون"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "ایستاده"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "کد کالای محصول",
+                "value": [
+                    "Sp۲۰۰"
+                ]
+            }
+        ]
+    }
+]

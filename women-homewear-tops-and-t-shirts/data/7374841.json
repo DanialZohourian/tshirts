@@ -1,0 +1,54 @@
+[
+    {
+        "id": 7374841,
+        "title_fa": "ناموجودتی شرت زنانه مدل FASHION_WT",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/7033c0e9cd5a2f13bf1da2e60ddd575a3dc4e0ee_1640440359.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "ویسکوز"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "آزاد"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "آستین کوتاه\r\nآزاد\r\nطرح دار"
+                ]
+            }
+        ]
+    }
+]

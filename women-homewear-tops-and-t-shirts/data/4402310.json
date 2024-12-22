@@ -1,0 +1,54 @@
+[
+    {
+        "id": 4402310,
+        "title_fa": "ناموجودتی شرت زنانه مدل A18",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/9466936814c5e550ba35d78f0623d485c2fd187e_1613045906.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "هفت"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "نگهداری",
+                "value": [
+                    "شستشو با آب ۳۰ درجه سانتیگراد\r\nاز سفید کننده برای شستشو استفاده نشود"
+                ]
+            }
+        ]
+    }
+]

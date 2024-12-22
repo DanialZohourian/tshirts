@@ -1,0 +1,73 @@
+[
+    {
+        "id": 3484778,
+        "title_fa": "نيم تنه زنانه كد zoo 003",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/71eb93afadccd7c49f2f104ecea1cd41d5c3e026_1602089520.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "خشتی"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بدون آستین"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "جذب"
+                ]
+            },
+            {
+                "key": "مدل بند لباس",
+                "value": [
+                    "باریک"
+                ]
+            },
+            {
+                "key": "نحوه بسته شدن",
+                "value": [
+                    "کشی"
+                ]
+            },
+            {
+                "key": "ویژگی‌های تخصصی",
+                "value": [
+                    "امکان خشک شدن سریع"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "روزمره",
+                    "اسپرت"
+                ]
+            }
+        ]
+    }
+]

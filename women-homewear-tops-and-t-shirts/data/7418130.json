@@ -1,0 +1,54 @@
+[
+    {
+        "id": 7418130,
+        "title_fa": "ناموجودتی شرت زنانه مدل FASHION_B",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/97f0ca74b8cf0172164095ba8bd88e51c203fde5_1640773116.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "ویسکوز"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "طرح‌دار"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "آزاد"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "آستین کوتاه\r\nآزاد\r\nطرح دار"
+                ]
+            }
+        ]
+    }
+]

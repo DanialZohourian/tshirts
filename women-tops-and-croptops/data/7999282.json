@@ -1,0 +1,64 @@
+[
+    {
+        "id": 7999282,
+        "title_fa": "نیم تنه زنانه مدل MIERLAIN DREAM رنگ مشکی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/9025ecfb35bda3a7775dea6add56543c661fa062_1646337241.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پارچه",
+                    "کرپ",
+                    "اسکاچی"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "نیم تنه"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "قایقی"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "سه ربع"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "اسپرت",
+                    "روزمره",
+                    "مهمانی"
+                ]
+            },
+            {
+                "key": "کد کالای محصول",
+                "value": [
+                    "MRL-DRMB"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "id": 8006552,
+        "title_fa": "ناموجودتی شرت آستین بلند زنانه مدل پاندا",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/d2daf54812766f4da3e5e7f2b637fe8ddea09e04_1646469597.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "تریکو",
+                    "ویسکوز"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "نگهداری",
+                "value": [
+                    "در ماشین لباسشویی با دمای زیر ۳۰ درجه شسته شود"
+                ]
+            }
+        ]
+    }
+]

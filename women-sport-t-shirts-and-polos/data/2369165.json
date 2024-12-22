@@ -1,0 +1,36 @@
+[
+    {
+        "id": 2369165,
+        "title_fa": "ناموجود تیشرت ورزشی زنانه پانیل کد 153W",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/117744112.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "نگهداری",
+                "value": [
+                    "- یقه گرد\r\n- آستین کوتاه\r\n- پارچه تور"
+                ]
+            }
+        ]
+    }
+]

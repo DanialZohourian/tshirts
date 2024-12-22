@@ -1,0 +1,63 @@
+[
+    {
+        "id": 16506823,
+        "title_fa": "کراپ‌ تی‌شرت آستین کوتاه زنانه وستیتی مدل Morning",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/ac3913bb9d2dbcbf82904ccf93dc3e795a3f23e8_1724266019.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "نوع تی شرت زنانه",
+                "value": [
+                    "کراپ تی‌شرت",
+                    "تی شرت آستین کوتاه"
+                ]
+            },
+            {
+                "key": "جنس",
+                "value": [
+                    "پنبه"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "مورد استفاده",
+                "value": [
+                    "مهمانی",
+                    "روزمره",
+                    "اسپرت"
+                ]
+            }
+        ]
+    }
+]

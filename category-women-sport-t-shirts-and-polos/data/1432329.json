@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1432329,
+        "title_fa": "ناموجودتیشرت ورزشی زنانه کد Z-U43",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/120051522.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "ویسکوز"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "سه ربع"
+                ]
+            },
+            {
+                "key": "نگهداری",
+                "value": [
+                    "اتوکشی در دمای متوسط \r\nشستشو در دمای ۴۰ درجه سانتیگراد"
+                ]
+            },
+            {
+                "key": "کشور مبدا برند",
+                "value": [
+                    "آلمان"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "ویتنام"
+                ]
+            }
+        ]
+    }
+]

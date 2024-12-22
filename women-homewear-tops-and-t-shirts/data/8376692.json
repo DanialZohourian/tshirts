@@ -1,0 +1,62 @@
+[
+    {
+        "id": 8376692,
+        "title_fa": "ناموجودتی شرت زنانه مدل چاپی طرح کارتونی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/ca38368cd0fb6dd919296c4fe264ef59daab23c2_1650961320.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پنبه",
+                    "تریکو",
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "چاپ"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی باسن"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "کشور مبدا برند",
+                "value": [
+                    "ترکیه"
+                ]
+            },
+            {
+                "key": "کشور تولید کننده",
+                "value": [
+                    "ترکیه"
+                ]
+            }
+        ]
+    }
+]

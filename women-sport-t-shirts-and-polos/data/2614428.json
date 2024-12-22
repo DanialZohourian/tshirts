@@ -1,0 +1,36 @@
+[
+    {
+        "id": 2614428,
+        "title_fa": "ناموجودتیشرت ورزشی زنانه کد Apiw90",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/120099451.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "نخ"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "ضد حساسیت\r\nبلک لایت"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "id": 2243231,
+        "title_fa": "ناموجودتیشرت ورزشی زنانه کد 018-2710 رنگ مشکی",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/117689191.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "پلی استر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "بلند"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "دارای آستین انگشتی\r\nویژگی تخصصی : دارای قابلیت خشک شدن سریع ،فرم دهی به بدن"
+                ]
+            }
+        ]
+    }
+]

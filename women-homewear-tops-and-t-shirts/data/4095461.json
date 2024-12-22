@@ -1,0 +1,60 @@
+[
+    {
+        "id": 4095461,
+        "title_fa": "ناموجودتاپ زنانه مدل ایفل کد 03",
+        "price": {},
+        "image": {
+            "pic1": "https://dkstatics-public.digikala.com/digikala-products/c2975fe359b908dcb670f6cfddee144e2dc6658b_1609058303.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        "attributes": [
+            {
+                "key": "جنس",
+                "value": [
+                    "نخ"
+                ]
+            },
+            {
+                "key": "طرح",
+                "value": [
+                    "ساده"
+                ]
+            },
+            {
+                "key": "قد",
+                "value": [
+                    "روی کمر"
+                ]
+            },
+            {
+                "key": "مدل یقه",
+                "value": [
+                    "گرد"
+                ]
+            },
+            {
+                "key": "نوع آستین",
+                "value": [
+                    "کوتاه"
+                ]
+            },
+            {
+                "key": "تنخور لباس",
+                "value": [
+                    "معمولی"
+                ]
+            },
+            {
+                "key": "جزئیات",
+                "value": [
+                    "یقه گرد\r\nاستین کوتاه"
+                ]
+            },
+            {
+                "key": "نگهداری",
+                "value": [
+                    "شستشو در دمای ۳۰ درجه"
+                ]
+            }
+        ]
+    }
+]
